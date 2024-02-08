@@ -1,0 +1,14 @@
+C:\Users\fbmeh\OneDrive\Masaüstü\Kodlama-io-2024-C#\intro\intro\bin\Debug\net8.0\intro.exe
+C:\Users\fbmeh\OneDrive\Masaüstü\Kodlama-io-2024-C#\intro\intro\bin\Debug\net8.0\intro.deps.json
+C:\Users\fbmeh\OneDrive\Masaüstü\Kodlama-io-2024-C#\intro\intro\bin\Debug\net8.0\intro.runtimeconfig.json
+C:\Users\fbmeh\OneDrive\Masaüstü\Kodlama-io-2024-C#\intro\intro\bin\Debug\net8.0\intro.dll
+C:\Users\fbmeh\OneDrive\Masaüstü\Kodlama-io-2024-C#\intro\intro\bin\Debug\net8.0\intro.pdb
+C:\Users\fbmeh\OneDrive\Masaüstü\Kodlama-io-2024-C#\intro\intro\obj\Debug\net8.0\intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fbmeh\OneDrive\Masaüstü\Kodlama-io-2024-C#\intro\intro\obj\Debug\net8.0\intro.AssemblyInfoInputs.cache
+C:\Users\fbmeh\OneDrive\Masaüstü\Kodlama-io-2024-C#\intro\intro\obj\Debug\net8.0\intro.AssemblyInfo.cs
+C:\Users\fbmeh\OneDrive\Masaüstü\Kodlama-io-2024-C#\intro\intro\obj\Debug\net8.0\intro.csproj.CoreCompileInputs.cache
+C:\Users\fbmeh\OneDrive\Masaüstü\Kodlama-io-2024-C#\intro\intro\obj\Debug\net8.0\intro.dll
+C:\Users\fbmeh\OneDrive\Masaüstü\Kodlama-io-2024-C#\intro\intro\obj\Debug\net8.0\refint\intro.dll
+C:\Users\fbmeh\OneDrive\Masaüstü\Kodlama-io-2024-C#\intro\intro\obj\Debug\net8.0\intro.pdb
+C:\Users\fbmeh\OneDrive\Masaüstü\Kodlama-io-2024-C#\intro\intro\obj\Debug\net8.0\intro.genruntimeconfig.cache
+C:\Users\fbmeh\OneDrive\Masaüstü\Kodlama-io-2024-C#\intro\intro\obj\Debug\net8.0\ref\intro.dll
